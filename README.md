@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <p align="center">- 👨‍💻 All of my projects are available at [https://github.com/Panchita1989](https://github.com/Panchita1989)</p>
 
 <h1 align="center">Projects</h1>
- <h3 align="center">SoulCuisine</h3>
+ <h3 align="center">Tigre Bacalar</h3>
  <a align = "center" target="_blank" href="https://tigrebacalar.com/">
-          <img src="tigre.gif" hight="100%" alt="tigre landing page"/>
+          <img align ="center"src="tigre.gif" hight="100%" alt="tigre landing page"/>
         </a>
       <br />
         <p align="center">
