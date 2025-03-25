@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Projects</h1>
  <h3 align="center">Tigre Bacalar</h3>
- <a align = "center" target="_blank" href="https://tigrebacalar.com/">
-          <img align ="center" src="tigre.gif" hight="100%" alt="tigre landing page"/>
+ <a align="center" target="_blank" href="https://tigrebacalar.com/">
+          <img align="center" src="tigre.gif" hight="100%" alt="tigre landing page"/>
         </a>
       <br />
         <p align="center">
