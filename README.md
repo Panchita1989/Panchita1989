@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Projects</h1>
  <a target="_blank" href="https://tigrebacalar.com/"
-          <img src="/tigre.gif" width="100%" alt="tigre landing page"/>
+          <img src="tigre.gif" width="100%" alt="tigre landing page"/>
         </a>
       <br />
         <p align="center">
