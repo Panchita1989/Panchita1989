@@ -33,8 +33,8 @@ Here are some ideas to get you started:
           <img src="tigre.gif" hight="100%" alt="tigre landing page"/>
         </a>
    <br />
-   <a align = "center" href="https://github.com/Panchita1989/websiteTigre" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+   <a href="https://github.com/Panchita1989/websiteTigre" target="_blank">
+    <img align = "center" src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
    <br />
    <p>Oficial Website of Tigre Bacalar</p>
