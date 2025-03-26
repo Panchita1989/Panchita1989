@@ -16,13 +16,47 @@ Here are some ideas to get you started:
 -->
 
 
+
 <h1 align="center">Hi 👋, I'm Franciska</h1>
-<h3 align="center">A passionate frontend developer from Switzerland living in Mexico</h3>
+<h3 align="center">A passionate fullstack developer from Switzerland living in Mexico</h3>
 
 <p align="center">- 👨‍💻 All of my projects are available at [https://github.com/Panchita1989](https://github.com/Panchita1989)</p>
 
 <h1 align="center">Projects</h1>
- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+
+<table bordercolor="#66b2b2">
+ <tr>
+   <td width="50%" valign="top">
+   <h3 align="center">Tigre Bacalar</h3>
+   <br />
+   <a target="_blank" href="https://tigrebacalar.com/">
+          <img src="tigre.gif" width="100%" alt="tigre landing page"/>
+        </a>
+   <br />
+    <p align="center">
+   <a href="https://github.com/Panchita1989/websiteTigre" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+     </p>
+   <p>Oficial Website of Tigre Bacalar</p>
+  </td>
+ </tr>
+ <tr>
+   <td width="50%" valign="top">
+   <h3 align="center">Lady Saloon</h3>
+   <br />
+     <img src="ladysaloon.gif" width="100%" alt="lady saloon landing page"/>
+   <br />
+    <p align="center">
+   <a href="https://github.com/Panchita1989/websiteTigre" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+     </p>
+   <p>Oficial Website of Tigre Bacalar</p>
+  </td>
+ </tr>
+ </table>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/panchitafl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panchitafl" height="30" width="40" /></a>
