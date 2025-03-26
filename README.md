@@ -40,8 +40,6 @@ Here are some ideas to get you started:
      </p>
    <p>Oficial Website of Tigre Bacalar</p>
   </td>
- </tr>
- <tr>
    <td width="50%" valign="top">
    <h3 align="center">Lady Saloon</h3>
    <br />
