@@ -48,7 +48,7 @@ Here are some ideas to get you started:
      <img src="ladysaloon.gif" width="100%" alt="lady saloon landing page"/>
    <br />
     <p align="center">
-   <a href="https://github.com/Panchita1989/websiteTigre" target="_blank">
+   <a href="https://github.com/Panchita1989/Hair-Salon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
      </p>
