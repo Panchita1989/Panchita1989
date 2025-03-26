@@ -36,8 +36,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   </td>
-  
  </tr>
+ </table>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
