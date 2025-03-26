@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Projects</h1>
 
-<table bordercolor="#66b2b2" width = "100%">
+<table bordercolor="#66b2b2">
  <tr>
-   <td width="50%" valign="top">
+   <td  width="50%" valign="top">
    <h3 align="center">Tigre Bacalar</h3>
    <br />
    <a target="_blank" href="https://tigrebacalar.com/">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
      </p>
    <p>Oficial Website of Tigre Bacalar</p>
   </td>
-   <td width="50%" valign="top">
+   <td  width="50%" valign="top">
    <h3 align="center">Lady Saloon</h3>
    <br />
      <img src="ladysaloon.gif" width="100%" alt="lady saloon landing page"/>
