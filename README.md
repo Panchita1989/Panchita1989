@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Franciska</h1>
-<h3 align="center">A passionate frontend developer from Switzerland living in Mexico</h3>
+<h3 align="center">A passionate fullstack developer from Switzerland living in Mexico</h3>
 
 <p align="center">- 👨‍💻 All of my projects are available at [https://github.com/Panchita1989](https://github.com/Panchita1989)</p>
 
