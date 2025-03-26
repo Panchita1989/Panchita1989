@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
      </p>
-   <p>Oficial Website of Tigre Bacalar</p>
+   <p>Landing Page for a Hair Saloon</p>
   </td>
  </tr>
  </table>
