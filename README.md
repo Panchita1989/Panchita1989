@@ -45,7 +45,7 @@ Here are some ideas to get you started:
    <td width="50%" valign="top">
    <h3 align="center">Lady Saloon</h3>
    <br />
-     <img src="ladysaloon.gif" width="100%" alt="lady saloon landing page"/>
+     <img src="ladysaloon.mp4" width="100%" alt="lady saloon landing page"/>
    <br />
     <p align="center">
    <a href="https://github.com/Panchita1989/websiteTigre" target="_blank">
