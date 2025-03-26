@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Projects</h1>
 
-<table bordercolor="#66b2b2">
+<table bordercolor="#66b2b2" width = "100%">
  <tr>
    <td width="50%" valign="top">
    <h3 align="center">Tigre Bacalar</h3>
