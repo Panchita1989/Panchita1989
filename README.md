@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Projects</h1>
 
-<table bordercolor="#66b2b2">
+<table bordercolor="#66b2b2" align="center" width="90%">
+
  <tr>
    <td  width="50%" valign="top">
    <h3 align="center">Tigre Bacalar</h3>
@@ -40,6 +41,22 @@ Here are some ideas to get you started:
      </p>
    <p>Oficial Website of Tigre Bacalar</p>
   </td>
+  <td  width="50%" valign="top">
+   <h3 align="center">Portfolio</h3>
+   <br />
+   <a target="_blank" href="https://franciskalandwehr.netlify.app/">
+          <img src="portfolio-gif" width="100%" alt="portfolio"/>
+        </a>
+   <br />
+    <p align="center">
+   <a href="https://github.com/Panchita1989/websiteTigre" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+     </p>
+   <p>Portfolio Franciska Landwehr</p>
+  </td>
+   </tr>
+  <tr>
    <td  width="50%" valign="top">
    <h3 align="center">Lady Saloon</h3>
    <br />
