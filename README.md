@@ -45,7 +45,7 @@ Here are some ideas to get you started:
    <h3 align="center">Portfolio</h3>
    <br />
    <a target="_blank" href="https://franciskalandwehr.netlify.app/">
-          <img src="portfolio-gif" width="100%" alt="portfolio"/>
+          <img src="portfolio.gif" width="100%" alt="portfolio"/>
         </a>
    <br />
     <p align="center">
