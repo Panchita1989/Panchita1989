@@ -65,7 +65,7 @@ Here are some ideas to get you started:
         </a>
    <br />
     <p align="center">
-   <a href="https://github.com/Panchita1989/websiteTigre" target="_blank">
+   <a href="https://github.com/Panchita1989/Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
      </p>
