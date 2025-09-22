@@ -28,11 +28,9 @@ Here are some ideas to get you started:
 
  <tr>
   <td  width="50%" valign="top">
-   <h3 align="center">Cakes by Karla</h3>
-   <br />
-   <a target="_blank" href="https://cakesbykarla.netlify.app/">
-          <img src="cakesbykarla.gif" width="100%" alt="cakesbykarla landing page"/>
-        </a>
+   <h3 align="center">Mascota Caribeña</h3>
+   <br />  
+      <img src="cakesbykarla.gif" width="100%" alt="cakesbykarla landing page"/> 
    <br />
     <p align="center">
    <a href="https://github.com/Panchita1989/cakesbykarlanew" target="_blank">
