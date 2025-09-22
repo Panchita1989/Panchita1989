@@ -30,14 +30,14 @@ Here are some ideas to get you started:
   <td  width="50%" valign="top">
    <h3 align="center">Mascota Caribeña</h3>
    <br />  
-      <img src="cakesbykarla.gif" width="100%" alt="cakesbykarla landing page"/> 
+      <img src="mascota.gif" width="100%" alt="mascota-caribeña"/> 
    <br />
     <p align="center">
-   <a href="https://github.com/Panchita1989/cakesbykarlanew" target="_blank">
+   <a href="https://github.com/Panchita1989/mascota-caribena" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
      </p>
-   <p>Oficial Website of Cakes by Karla</p>
+   <p>Website Mascota Caribeña</p>
   </td>
   <td  width="50%" valign="top">
    <h3 align="center">Cakes by Karla</h3>
