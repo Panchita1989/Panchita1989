@@ -41,6 +41,22 @@ Here are some ideas to get you started:
      </p>
    <p>Oficial Website of Cakes by Karla</p>
   </td>
+  <td  width="50%" valign="top">
+   <h3 align="center">Cakes by Karla</h3>
+   <br />
+   <a target="_blank" href="https://cakesbykarla.netlify.app/">
+          <img src="cakesbykarla.gif" width="100%" alt="cakesbykarla landing page"/>
+        </a>
+   <br />
+    <p align="center">
+   <a href="https://github.com/Panchita1989/cakesbykarlanew" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+     </p>
+   <p>Oficial Website of Cakes by Karla</p>
+  </td>
+  </tr>
+  <tr>
    <td  width="50%" valign="top">
    <h3 align="center">Tigre Bacalar</h3>
    <br />
@@ -55,8 +71,6 @@ Here are some ideas to get you started:
      </p>
    <p>Oficial Website of Tigre Bacalar</p>
   </td>
-   </tr>
-   <tr>
   <td  width="50%" valign="top">
    <h3 align="center">Portfolio</h3>
    <br />
@@ -71,7 +85,8 @@ Here are some ideas to get you started:
      </p>
    <p>Portfolio Franciska Landwehr</p>
   </td>
-  
+  </tr>
+  <tr>  
    <td  width="50%" valign="top">
    <h3 align="center">Lady Saloon</h3>
    <br />
