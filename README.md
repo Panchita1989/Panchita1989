@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <td  width="50%" valign="top">
    <h3 align="center">Mascota Caribeña</h3>
    <br />  
-      <img src="mascota.gif" width="100%" alt="mascota-caribeña"/> 
+      <img src="" width="100%" alt="mascota-caribeña"/> 
    <br />
     <p align="center">
    <a href="https://github.com/Panchita1989/mascota-caribena" target="_blank">
