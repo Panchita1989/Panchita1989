@@ -30,7 +30,7 @@ Here are some ideas to get you started:
    <h3 align="center">Pucté Bacalar</h3>
    <br />  
       <a target="_blank" href="https://pucte.netlify.app/">
-      <img src="mascotaNew.gif" width="100%" alt="pucte-bacalar"/> 
+      <img src="pucte.gif" width="100%" alt="pucte-bacalar"/> 
       </a>
    <br />
     <p align="center">
