@@ -25,7 +25,36 @@ Here are some ideas to get you started:
 <h1 align="center">Projects</h1>
 
 <table bordercolor="#66b2b2" align="center" width="90%">
-
+ <tr>
+  <td  width="50%" valign="top">
+   <h3 align="center">Pucté Bacalar</h3>
+   <br />  
+      <a target="_blank" href="https://pucte.netlify.app/">
+      <img src="mascotaNew.gif" width="100%" alt="pucte-bacalar"/> 
+      </a>
+   <br />
+    <p align="center">
+   <a href="https://github.com/Panchita1989/pucte" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+    </p>
+   <p>Website Pucté Bacalar</p>
+  </td>
+  <td  width="50%" valign="top">
+   <h3 align="center">Sail Bacalar</h3>
+   <br />
+   <a target="_blank" href="https://sailbacalar.com/">
+          <img src="cakesbykarla.gif" width="100%" alt="sailbacalar"/>
+        </a>
+   <br />
+    <p align="center">
+   <a href="https://github.com/Panchita1989/sailbacalar" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+     </p>
+   <p>Oficial Website of Sailbacalar</p>
+  </td>
+  </tr>
  <tr>
   <td  width="50%" valign="top">
    <h3 align="center">Mascota Caribeña</h3>
