@@ -44,7 +44,7 @@ Here are some ideas to get you started:
    <h3 align="center">Sail Bacalar</h3>
    <br />
    <a target="_blank" href="https://sailbacalar.com/">
-          <img src="cakesbykarla.gif" width="100%" alt="sailbacalar"/>
+          <img src="sailbacalar.gif" width="100%" alt="sailbacalar"/>
         </a>
    <br />
     <p align="center">
